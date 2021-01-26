@@ -5,7 +5,7 @@ const ytdl = require('ytdl-core');
 const { YTSearcher } = require('ytsearcher');
 
 const searcher = new YTSearcher({
-    key: NzE0NzU1Nzg0NzM4NjAzMDA4.XszSMg.aCuIWhlfMMpvyMNFS37UrM_5xXk,
+    key prosses.evn.youtube api,
     revealed: true
 });
 
@@ -139,4 +139,4 @@ client.on("message", async(message) => {
     }
 })
 
-client.login(NzE0NzU1Nzg0NzM4NjAzMDA4.XszSMg.aCuIWhlfMMpvyMNFS37UrM_5xXk);
+client.login(prosses.evn.token);
